@@ -22,4 +22,5 @@ The winner is the one who reaches 100 scores first.
 
 #### PREVIEW
 
-<img width="1436" alt="Screenshot Roll The Dice" src="https://github.com/JuliaCMint/roll-the-dice-game/assets/105377899/1a4093e7-9769-4338-9253-80bbdd31adc2">
+
+![Roll The Dice](https://github.com/JuliaCMint/roll-the-dice-game/assets/105377899/e683eb40-a2c8-4aee-905e-fe455f02547b)
